@@ -20,4 +20,4 @@
 - Python / Kivy  
 
 ### 📧 Contact
-**Amitech** — [your email or website link here]
+**Amitech** — [[amitechnologies@gmail.com](https://ami-ls.itch.io/)]
